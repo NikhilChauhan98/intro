@@ -6,7 +6,7 @@ A dedicated aspiring data scientist on a quest for knowledge and expertise in th
 
 Reach me on:
 
-My profile in linkedin -- nikhilchauhan98.
+-My profile in linkedin -- nikhilchauhan98.
 
 <!---
 NikhilChauhan98/NikhilChauhan98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
